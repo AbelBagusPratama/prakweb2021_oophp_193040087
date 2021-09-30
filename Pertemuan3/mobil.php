@@ -14,6 +14,7 @@ Class Mobil {
 
     }
     public function gantitransmisi(){
+ 
         
     }
 }
